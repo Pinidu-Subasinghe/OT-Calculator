@@ -31,3 +31,7 @@ Designed with **liquid glass UI (glassmorphism)** and a **background video** for
 ---
 
 ## 📂 Project Structure
+OT-Calculator/
+│── index.html # Main app (HTML + CSS + JS)
+│── moon.mp4 # Background video (local file)
+│── README.md # Documentation
